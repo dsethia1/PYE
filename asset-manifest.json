@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dsethia1/PYE/static/css/main.ced12803.css",
+    "main.js": "/dsethia1/PYE/static/js/main.0c0243a4.js",
+    "static/js/453.92e99b12.chunk.js": "/dsethia1/PYE/static/js/453.92e99b12.chunk.js",
+    "index.html": "/dsethia1/PYE/index.html",
+    "main.ced12803.css.map": "/dsethia1/PYE/static/css/main.ced12803.css.map",
+    "main.0c0243a4.js.map": "/dsethia1/PYE/static/js/main.0c0243a4.js.map",
+    "453.92e99b12.chunk.js.map": "/dsethia1/PYE/static/js/453.92e99b12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ced12803.css",
+    "static/js/main.0c0243a4.js"
+  ]
+}
